@@ -4,7 +4,7 @@
 - 📜 Geralmente eu utilizo esse git para subir repositórios de estudos e testes, e estou cuidando mais dele desde julho de 2025.
 - 🔭 Atualmente estou trabalhando com SQL SERVER, SQL Reporting Server, Javascript & TOTVS Protheus!
 - 🌱 No momento o repositório mais interessante seria o "Mentor" onde estou documentando alguns estudos simples!
-- 📫 Fale comigo no email: joao.pedroml@protonmail.com
+- 📫 Fale comigo no email: joao.pedroml@protonmail.com ou no Linkedin https://www.linkedin.com/in/jo%C3%A3o-pedro-mesquita-lima-17937b1a3/
 
 <div>
   <h1> Ferramentas que mais uso no trabalho!</h1>
