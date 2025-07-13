@@ -2,17 +2,17 @@
 
 - 🔎 Seja bem vindo ao meu GitHub pessoal!
 - 📜 Geralmente eu utilizo esse git para subir repositórios de estudos e testes, e estou cuidando mais dele desde julho de 2025.
-- 🔭 Atualmente estou trabalhando com diversas tecnologias como SQL SERVER/Report Server, Javascript & TOTVS Protheus!
-- 🌱 No momento o repositório mais interessante seria o "Mentor" onde estou documentando alguns estudos simples de Javascript e React!
+- 🔭 Atualmente estou trabalhando com SQL SERVER, SQL Reporting Server, Javascript & TOTVS Protheus!
+- 🌱 No momento o repositório mais interessante seria o "Mentor" onde estou documentando alguns estudos simples!
 - 📫 Fale comigo no email: joao.pedroml@protonmail.com
 
 <div>
-  <h1> Ferramentas que mais uso no dia a dia!</h1>
+  <h1> Ferramentas que mais uso no trabalho!</h1>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <h3> Mensão honrosa ao Totvs Protheus que não possui badge!</h3>
+  <h4> Mensão honrosa ao Totvs Protheus que não possui badge!</h4>
 </div>
 
 <div>
